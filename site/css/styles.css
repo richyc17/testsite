@@ -83,10 +83,13 @@ body {
 
 /**** Main content css ***/
 
+.row {
+	padding-top: 150px
+}
+
 #main-content {
 	background-color: #333;
 	border-radius: 10px;
-	height: ;
 	margin: 5%;
 	z-index: 1;
 }
