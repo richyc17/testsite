@@ -1,0 +1,110 @@
+/*** Body css***/
+
+body {
+	font-size:16px;
+	color: #fff;
+	background-color: #61122f;
+    font-family: 'Oxygen', sans-serif;
+}
+
+/*** Navigation css ***/
+
+#header-nav {
+	width: 100%;
+	background-color: #f6b319;
+	border-radius: 0;
+	border:0;
+	border-color:;
+	-webkit-box-shadow: 17px 18px 30px -13px rgba(0,0,0,0.75);
+    -moz-box-shadow: 17px 18px 30px -13px rgba(0,0,0,0.75);
+    box-shadow: 17px 18px 30px -13px rgba(0,0,0,0.75);
+	
+}
+
+.navbar-nav {
+	font-size: 2em;
+	text-decoration: none;
+	color: grey;
+	text-align: center;
+	vertical-align: middle;
+	float: left;
+	position: relative;
+	bottom:  12px;
+	left: 5px;
+}
+
+.navbar-brand { 
+	display:;
+	width: 250px;
+	height: 100px;
+	margin: ;
+	float: left;
+	position: relative;
+	bottom:  12px;
+	left: 5px;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #999;
+}
+.navbar-toggle .icon-bar {
+  display: block;
+  width: 22px;
+  height: 2px;
+  border-radius: 1px;
+}
+.navbar-toggle .icon-bar + .icon-bar {
+  margin-top: 4px;
+}
+
+#nav-list {
+  margin-top: 25%;
+  margin-right: 25%;
+}
+
+#nav-list a {
+  text-align: center;
+  width: 100%;
+  font-weight: 400;
+  font-size: 1,2em;
+  border: 0px;
+  margin-bottom: 4%;
+
+}
+
+#nav-list a:hover {
+    background: #e7e7e7;
+}
+
+#nav-list a span {
+    font-size: 1.8em;
+}
+
+/**** Main content css ***/
+
+#main-content {
+	background-color: #333;
+	border-radius: 10px;
+	height: ;
+	margin: 5%;
+	z-index: 1;
+}
+
+.info {
+	-webkit-box-shadow: 17px 18px 30px -13px rgba(0,0,0,0.75);
+    -moz-box-shadow: 17px 18px 30px -13px rgba(0,0,0,0.75);
+    box-shadow: 17px 18px 30px -13px rgba(0,0,0,0.75);
+    background-color: #444;
+	padding: 2%;
+	margin: 4%;
+}
+
+.clear {
+	clear: both;
+}
+
+
+
+
+
+
