@@ -15,7 +15,6 @@ body {
 	border-radius: 0;
 	border:0;
 	border-color:;
-	position: fixed;
 	-webkit-box-shadow: 17px 18px 30px -13px rgba(0,0,0,0.75);
     -moz-box-shadow: 17px 18px 30px -13px rgba(0,0,0,0.75);
     box-shadow: 17px 18px 30px -13px rgba(0,0,0,0.75);
